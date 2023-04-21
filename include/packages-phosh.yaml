@@ -8,6 +8,8 @@ actions:
     description: Install Phosh packages
     packages:
       - mobian-phosh
+      - juno-tablet
+      - phosh-tweaks
       # Additional software we don't want metapackages to depend on
       - eog
       - epiphany-browser
