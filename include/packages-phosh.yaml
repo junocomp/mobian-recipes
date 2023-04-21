@@ -10,6 +10,8 @@ actions:
       - mobian-phosh
       - juno-tablet
       - phosh-tweaks
+      - adwaita-qt
+      - adwaita-qt6
       # Additional software we don't want metapackages to depend on
       - eog
       - epiphany-browser
